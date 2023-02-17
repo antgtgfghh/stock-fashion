@@ -1,0 +1,109 @@
+<! DOCTYPE html>
+
+<html>
+      <head>
+          <meta charset="utf-8">
+          <title>Stock Fashion (Homme)</title> 
+          <link rel="stylesheet" href="style.css">
+ <style>
+.image {
+float: left;
+margin: 0 15px 15px 0;
+}
+</style>
+      </head> 
+      <body> 
+      	  
+
+          <div id="carte">
+
+
+
+      	  <h1>Stock Fashion</h1>
+          <h2>Des vêtements pour tous !!</h2>
+          <h6>Boutique en ligne : </h6>
+	
+	<ul> 
+       <li>  <div><h3>Esemble veste millitaire jaune et jean </h3>
+        <p>Description:Esemble millitaire jaune et jean , produit de bonne qualité<br> 
+        Prix :30€</p>
+       	 <div style="float : left;"><img src="C:\Users\antoi\Downloads\B9ECED6F.ASUSPCAssistant_qmba6cd70vzyy!App\Link_to_MyASUS\IMG_1608.JPG" alt="Image" height="400" width="300">
+         <input type="image"  alt="Bouton" src="https://t4.ftcdn.net/jpg/00/29/58/33/240_F_29583366_y6xcDfDokH7fi8N1r4XJyduNYzBQQcOE.jpg" alt="Image" height="300" width="400"></div>
+
+
+         <li>  <div><h3>Esemble pull gris , bob rouge et salopette  </h3>
+        <p>Description: Esemble pull gris , bob rouge et salopette , produit de bonne qualité<br> 
+        Prix :45€</p>
+         <div style="float : left;"><img src="C:\Users\antoi\Downloads\B9ECED6F.ASUSPCAssistant_qmba6cd70vzyy!App\Link_to_MyASUS\IMG_1615.JPG" alt="Image" height="400" width="300">
+         <input type="image"  alt="Bouton" src="https://t4.ftcdn.net/jpg/00/29/58/33/240_F_29583366_y6xcDfDokH7fi8N1r4XJyduNYzBQQcOE.jpg" alt="Image" height="300" width="400"></div>
+
+
+
+  <li>  <div><h3>Esemble veste rose et jean  </h3>
+        <p>Description:Esemble veste rose et jean produit de bonne qualité<br> 
+        Prix :35€</p>
+         <div style="float : left;"><img src="C:\Users\antoi\Downloads\B9ECED6F.ASUSPCAssistant_qmba6cd70vzyy!App\Link_to_MyASUS\IMG_1612.JPG" alt="Image" height="400" width="300">
+         <input type="image"  alt="Bouton" src="https://t4.ftcdn.net/jpg/00/29/58/33/240_F_29583366_y6xcDfDokH7fi8N1r4XJyduNYzBQQcOE.jpg" alt="Image" height="300" width="400"></div>
+
+
+  <li>  <div><h3>Esemble haut noir et pantalon </h3>
+        <p>Description:Esemble haut noir et pantalon en similicuir noir produit de bonne qualité<br> 
+        Prix :25€</p>
+         <div style="float : left;"><img src="C:\Users\antoi\Downloads\B9ECED6F.ASUSPCAssistant_qmba6cd70vzyy!App\Link_to_MyASUS\IMG_1619.JPG" alt="Image" height="400" width="300">
+         <input type="image"  alt="Bouton" src="https://t4.ftcdn.net/jpg/00/29/58/33/240_F_29583366_y6xcDfDokH7fi8N1r4XJyduNYzBQQcOE.jpg" alt="Image" height="300" width="400"></div>
+
+
+  <li>  <div><h3>Esemble haut bleue et jean  </h3>
+        <p>Description:Esemble haut bleue et jean  produit de bonne qualité<br> 
+        Prix :32€</p>
+         <div style="float : left;"><img src="C:\Users\antoi\Downloads\B9ECED6F.ASUSPCAssistant_qmba6cd70vzyy!App\Link_to_MyASUS\IMG_1623.JPG" alt="Image" height="400" width="300">
+         <input type="image"  alt="Bouton" src="https://t4.ftcdn.net/jpg/00/29/58/33/240_F_29583366_y6xcDfDokH7fi8N1r4XJyduNYzBQQcOE.jpg" alt="Image" height="300" width="400"></div>
+
+
+
+  <li>  <div><h3>Esemble millitaire jaune et jean </h3>
+        <p>Description:Esemble millitaire jaune et jean produit de bonne qualité<br> 
+        Prix :30€</p>
+         <div style="float : left;"><img src="C:\Users\antoi\Downloads\B9ECED6F.ASUSPCAssistant_qmba6cd70vzyy!App\Link_to_MyASUS\IMG_1608.JPG" alt="Image" height="400" width="300">
+         <input type="image"  alt="Bouton" src="https://t4.ftcdn.net/jpg/00/29/58/33/240_F_29583366_y6xcDfDokH7fi8N1r4XJyduNYzBQQcOE.jpg" alt="Image" height="300" width="400"></div>
+
+
+  <li>  <div><h3>Esemble veste jaune et jean </h3>
+        <p>Description:Esemble veste en laine jaune et jean produit de bonne qualité<br> 
+        Prix :30€</p>
+         <div style="float : left;"><img src="C:\Users\antoi\Downloads\B9ECED6F.ASUSPCAssistant_qmba6cd70vzyy!App\Link_to_MyASUS\IMG_1613.JPG" alt="Image" height="400" width="300">
+         <input type="image"  alt="Bouton" src="https://t4.ftcdn.net/jpg/00/29/58/33/240_F_29583366_y6xcDfDokH7fi8N1r4XJyduNYzBQQcOE.jpg" alt="Image" height="300" width="400"></div>
+
+
+
+  <li>  <div><h3>Esemble tee-shirt bleu et pantalon noir  </h3>
+        <p>Description:Esemble tee-shirt bleu style football américain et pantalon noir produit de bonne qualité<br> 
+        Prix :20€</p>
+         <div style="float : left;"><img src="C:\Users\antoi\Downloads\B9ECED6F.ASUSPCAssistant_qmba6cd70vzyy!App\Link_to_MyASUS\IMG_1620.JPG" alt="Image" height="400" width="300">
+         <input type="image"  alt="Bouton" src="https://t4.ftcdn.net/jpg/00/29/58/33/240_F_29583366_y6xcDfDokH7fi8N1r4XJyduNYzBQQcOE.jpg" alt="Image" height="300" width="400"></div>
+
+
+  <li>  <div><h3>Esemble veste rouge et pantalon noir </h3>
+        <p>Description:Esemble veste rouge , pantalon noir et cravate offerte!! produit de bonne qualité<br> 
+        Prix :30€</p>
+         <div style="float : left;"><img src="C:\Users\antoi\Downloads\B9ECED6F.ASUSPCAssistant_qmba6cd70vzyy!App\Link_to_MyASUS\IMG_1624.JPG" alt="Image" height="400" width="300">
+         <input type="image"  alt="Bouton" src="https://t4.ftcdn.net/jpg/00/29/58/33/240_F_29583366_y6xcDfDokH7fi8N1r4XJyduNYzBQQcOE.jpg" alt="Image" height="300" width="400"></div>
+
+
+
+
+
+         
+            </ul>
+
+            
+
+               
+
+             	<img src="https://th.bing.com/th/id/R.fcd1ff59a6504d16e4cdb3117a448788?rik=Y2JJ%2fR486cpiPg&riu=http%3a%2f%2fjenskiimir.ru%2fwp-content%2fuploads%2f2013%2f08%2fsimvol-zhenshhinyi.jpg&ehk=uCv4vzkpYqucVRKPmYawT8BTXNppAv70iyzrhaRGtv8%3d&risl=&pid=ImgRaw&r=0"alt="Image" height="200" width="100">
+
+                
+             	<img src="https://thumbs.dreamstime.com/b/dise%C3%B1o-del-logotipo-de-atenci%C3%B3n-comunitaria-y-adopci%C3%B3n-plantilla-vectorial-160275937.jpg"alt="Image" height="200" width="200">
+           
+      </body> 
+</html>
